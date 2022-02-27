@@ -1,0 +1,1 @@
+docker build . -t twitch-ban-tracker:latest

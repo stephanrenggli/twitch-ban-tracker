@@ -1,0 +1,8 @@
+client_id: yourtwitchclientidgoeshere
+client_secret: yourtwitchclientsecretgoeshere
+gotify_url: https://gotify.yourdomain.com
+gotify_token: yourgotifyapptokengoeshere
+check_interval: 15
+tracked_accounts:
+  - xqcow
+  - sodapoppin
