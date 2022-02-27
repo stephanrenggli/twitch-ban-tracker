@@ -1,3 +1,5 @@
 storage/
 Dockerfile
 build.sh
+README.md
+config.yml.example
